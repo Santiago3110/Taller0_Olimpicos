@@ -21,5 +21,4 @@ public class Modificacion
 		}
 		System.out.println(calc.paisConMasMedallistas());
 	}
-	
 }
